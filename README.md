@@ -1,8 +1,10 @@
 # WaterDock-2.0
 
 Please Cite:
-Rapid and Accurate Prediction and Scoring of Water Molecules in Protein Binding Sites
+Waterdock 2.0: Water placement prediction for Holo-structures with a pymol plugin
+DOI : https://doi.org/10.1371/journal.pone.0172743
 
+Rapid and Accurate Prediction and Scoring of Water Molecules in Protein Binding Sites
 DOI : http://dx.doi.org/10.1371/journal.pone.0032036
 
 This is a PyMol Plugin for the original WaterDock and the new and improved WaterDock 2.0 specific for holo structures.
