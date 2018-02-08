@@ -1,6 +1,6 @@
 # WaterDock-2.0
 
-Please Cite:
+Please Cite the following two papers:
 
 Waterdock 2.0: Water placement prediction for Holo-structures with a pymol plugin
 
